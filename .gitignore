@@ -4,3 +4,5 @@ tex/*
 # Do not ignore the .tex and .pdf files
 !tex/*.tex
 !tex/*.pdf
+
+*.pt

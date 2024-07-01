@@ -1,0 +1,6 @@
+# Ignore all files in the tex directory
+tex/*
+
+# Do not ignore the .tex and .pdf files
+!tex/*.tex
+!tex/*.pdf

@@ -6,3 +6,4 @@ tex/*
 !tex/*.pdf
 
 *.pt
+results/
